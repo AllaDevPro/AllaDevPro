@@ -51,6 +51,20 @@ src="https://img.shields.io/github/followers/AllaDevPro?logo=github&style=for-th
 
 <a href="http://www.github.com/AllaDevPro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AllaDevPro&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+### ⚙️ GitHub 
+statistics:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AllaDevPro&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AllaDevPro&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
 <a href="https://github.com/AllaDevPro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllaDevPro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
