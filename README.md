@@ -15,6 +15,16 @@ Hi! My name is Alla, and I'm a budding web developer known as AllaDevPro. I'm pa
 * 🚀  I'm currently working on [I am currently affiliated with Alaska\_Alex and continue my education by actively participating in webinars and professional communities.](http://aласкаалекс.рф)
 * 🧠  I'm learning HTML CSS JS
 * 🤝  I'm open to collaborating on Ready to participate in interesting projects.
+* ### 🤝 Social media:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/aleksey-malankin-0b083926a/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/Alaska_alex_agp" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
 
 <a href="https://www.github.com/AllaDevPro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AllaDevPro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
